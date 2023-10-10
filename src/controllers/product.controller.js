@@ -1,3 +1,4 @@
+// Jerick Paraso | 301268477 | 10-08-2023
 const Product = require("../models/product.model")
 
 // GET all products (api/products)
