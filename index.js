@@ -1,3 +1,4 @@
+// Jerick Paraso | 301268477 | 10-08-2023
 const express = require("express");
 const cors = require("cors")
 const { mongoConnect } = require("./mongo");
